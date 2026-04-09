@@ -1,0 +1,3 @@
+### Tecnologías
+* Python 3.x
+* PySpark (MLlib)
